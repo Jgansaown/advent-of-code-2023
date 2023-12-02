@@ -31,7 +31,7 @@ if __name__ == '__main__':
     # for line in lines:
     #     ans += get_number(line)
 
-    with open('day_1/input', 'r') as f:
+    with open('day_1/input.txt', 'r') as f:
         for line in f:
             ans += get_number(line)
 

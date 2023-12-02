@@ -66,7 +66,7 @@ if __name__ == '__main__':
     #                 last = digit
     #     ans += first * 10 + last
 
-    with open('day_1/input', 'r') as f:
+    with open('day_1/input.txt', 'r') as f:
         for line in f:
             first = -1
             last = -1
